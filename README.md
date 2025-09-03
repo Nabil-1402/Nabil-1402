@@ -17,7 +17,8 @@
 - **[Personal Finance Tracker](https://github.com/Nabil-1402/Personal-Finance-Tracker-project.git)**  
   Built with **Spring Boot** and **MySQL**, this project helped me put lecture topics into practice, from databases and SQL to Java development. It’s my proudest project so far as it ties together both academic learning and independent problem-solving.  
 
-- *(You can add more projects here when you’re ready — e.g., your London Air Pollution Visualizer)*  
+- **[London Pollution Visualiser](https://github.com/Nabil-1402/London_Pollution_Visualiser)**
+    This is my first ever group project where we used Java, JavaFX and CSS to create a pollution visualisation application. 
 
 ---
 
