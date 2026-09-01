@@ -8,22 +8,25 @@
 
 ## 🚀 Tech Stack
 - **Languages:** Java, SQL, HTML, CSS (basic), Python (Intermediate)  
-- **Frameworks & Tools:** Spring Boot, MySQL  
-- **Currently Learning:** Spring Boot + backend development best practices  
+- **Frameworks & Tools:** Spring Boot, MySQL, AWS, Linux, Docker, Kubernetes
+- **Currently Learning:** DevOps and cloud tools to become a DevOps/Cloud engineer 
 
 ---
 
 ## 🌟 Projects
 - **[Personal Finance Tracker](https://github.com/Nabil-1402/Personal-Finance-Tracker-project.git)**  
-  Built with **Spring Boot** and **MySQL**, this project helped me put lecture topics into practice, from databases and SQL to Java development. It’s my proudest project so far as it ties together both academic learning and independent problem-solving.  
+  Built with **Spring Boot** and **MySQL**, this project helped me put lecture topics into practice, from databases and SQL to Java development. It’s my proudest project so far as it ties together both academic learning and independent problem-solving.
+
+- **[NextWork Web Project](https://github.com/Nabil-1402/nextwork-web-project.git)**  
+   Java web app set up on an EC2 instance. This web app was set up as a part of NextWork's 6 Day DevOps challenge.
 
 - **[London Pollution Visualiser](https://github.com/Nabil-1402/London_Pollution_Visualiser)**  
-   This is my first ever group project where we used Java, JavaFX and CSS to create a pollution visualisation application. 
+   This is my first ever group project where we used Java, JavaFX and CSS to create a pollution visualisation application.
 
 ---
 
 ## 🎯 Career Interests
-- Actively looking for **software engineering internships**  
+- Actively looking for **DevOps and Cloud engineering roles**  
 - Open to exploring **AI, FinTech, and other areas of tech**  
 
 ---
