@@ -23,6 +23,10 @@
 - **[Recipe Manage Project](https://github.com/Nabil-1402/DevOps_Recipe_Manager.git)**
   This is a project that I am currently working on to practice my **Python** skills and to develop my DevOps skills. I am aiming to create a **CI/CD pipeline** using **Github Actions** and deploying **containerised versions of the application onto AWS with Terraform.**
 
+- **[AWS VPC Projects](https://github.com/Nabil-1402/AWS-VPC-Projects)**
+  Completed a series of hands-on **AWS networking projects covering VPCs, public subnets, route tables, internet gateways and security groups**. I also configured **VPC Peering, monitored network traffic using VPC Flow Logs and CloudWatch**, accessed **Amazon S3** from **EC2** using the **AWS CLI**, and created an **S3 Gateway Endpoint** to provide private access to S3.
+
+
 - **[London Pollution Visualiser](https://github.com/Nabil-1402/London_Pollution_Visualiser)**  
    This is my first ever group project where we used Java, JavaFX and CSS to create a pollution visualisation application.
 
