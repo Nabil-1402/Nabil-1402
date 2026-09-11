@@ -26,6 +26,8 @@
 - **[AWS VPC Projects](https://github.com/Nabil-1402/AWS-VPC-Projects)**
   Completed a series of hands-on **AWS networking projects covering VPCs, public subnets, route tables, internet gateways and security groups**. I also configured **VPC Peering, monitored network traffic using VPC Flow Logs and CloudWatch**, accessed **Amazon S3** from **EC2** using the **AWS CLI**, and created an **S3 Gateway Endpoint** to provide private access to S3.
 
+- **[AWS EKS Kubernetes Deployment Project](https://github.com/Nabil-1402/AWS-EKS-Project.git)**  
+  Completed a four-part project in which I created an **Amazon EKS cluster**, built a backend application as a **Docker image**, pushed it to **Amazon ECR**, and deployed it using **Kubernetes Deployment and Service manifests**. This project helped me develop practical experience with **EKS, Docker, Kubernetes, eksctl, kubectl, IAM and CloudFormation**.
 
 - **[London Pollution Visualiser](https://github.com/Nabil-1402/London_Pollution_Visualiser)**  
    This is my first ever group project where we used Java, JavaFX and CSS to create a pollution visualisation application.
