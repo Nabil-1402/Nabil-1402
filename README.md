@@ -37,6 +37,9 @@
 - **[London Pollution Visualiser](https://github.com/Nabil-1402/London_Pollution_Visualiser)**  
   This was my first group project, in which we used **Java, JavaFX and CSS** to create a pollution visualisation application.
 
+- **[My DevOps Journey] (https://github.com/Nabil-1402/my-devops-journey.git)**
+  This is where I document all my learning about DevOps tools and practices. Each section will include notes on subtopics, labs where I do simple practice tasks, and also project where I do a larger task based on what I learn.
+
 ---
 
 ## 🎯 Career Interests
